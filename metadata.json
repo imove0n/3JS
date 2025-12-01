@@ -1,0 +1,5 @@
+{
+  "name": "Terra 3D",
+  "description": "A photorealistic 3D Earth visualization using React Three Fiber and Three.js featuring atmospheric clouds, specular oceans, and a deep space environment.",
+  "requestFramePermissions": []
+}
